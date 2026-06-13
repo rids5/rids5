@@ -27,7 +27,7 @@ When I'm not coding, I'm sharpening my problem-solving skills on LeetCode and ex
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java,pandas,git,github,vscode,linux,html,css&perrow=10" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,git,vscode,linux,html,css&perrow=10" />
   </a>
 </p>
 ---
