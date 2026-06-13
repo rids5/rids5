@@ -92,7 +92,8 @@ Features:
   - Interactive particle background
   - Project modals with full descriptions
   - Contact form with email integration
-
+🔗 [View on GitHub](https://github.com/rids5/portfolio3dd)
+    
 ---
 
 ## 🤝 Let's Connect
