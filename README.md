@@ -33,6 +33,20 @@ When I'm not coding, I'm sharpening my problem-solving skills and exploring new 
 
 ---
 
+### [RULE BASED IDENTIY VEIFICATION & DOC VALIDATION SYSTEM ](https://github.com/RidhimaTomar/JAVA-PROJECT)
+_Java-based document verification system that validates identity documents using predefined rule-based authentication criteria._
+
+Features:
+- Automated document authentication and validation.
+- Rule-based approval and rejection engine.
+- Java Swing GUI with MySQL database integration.
+- Secure storage and tracking of verification records.
+- Reduced manual verification time and improved accuracy.
+
+🔗 [View on GitHub](https://github.com/RidhimaTomar/JAVA-PROJECT)
+
+---
+
 ### [Fraud Net](https://github.com/Swastika23214/Fraud_Net)
 _A rule-based fraud detection system for telecom call data built in C++._
 
