@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Riddhi%20Sibal&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20%7C%20C%2B%2B%20%7C%20Python%20%7C%20DSA&descAlignY=52&descAlign=50)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,50:0083B0,100:005F99&height=200&section=header&text=Riddhi%20Sibal&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20%7C%20C%2B%2B%20%7C%20Python%20%7C%20DSA&descAlignY=52&descAlign=50)
 
 ---
 
