@@ -1,35 +1,33 @@
-<!-- ============================= -->
-<!--          BANNER SECTION       -->
-<!-- ============================= -->
-
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Riddhi%20Sibal&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20%7C%20C%2B%2B%20%7C%20Python%20%7C%20DSA&descAlignY=52&descAlign=50)
 
 ---
 
-# Hi, I'm Riddhi Sibal 
+# Hi, I'm Riddhi Sibal 👋
 **B.Tech CSE student building systems with real-world impact — from fraud detection to healthcare tools.**
 
 ---
 
-I'm a Computer Science undergraduate, passionate about Data Structures, Algorithms, and writing clean, efficient code in C++ and Python. I enjoy taking real-world problems and breaking them down into elegant software solutions.
+## About Me
+
+I'm a Computer Science undergraduate based in Delhi, passionate about Data Structures, Algorithms, and writing clean, efficient code in C++ and Python. I enjoy taking real-world problems and breaking them down into elegant software solutions.
 
 I've built projects ranging from a rule-based fraud detection engine for telecom data to a daily health monitoring assistant — and I love diving deep into the "how" behind every system I build.
 
-When I'm not coding, I'm sharpening my problem-solving skills on LeetCode and exploring new ideas to build next.
+When I'm not coding, I'm sharpening my problem-solving skills and exploring new ideas to build next.
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/riddhi-sibal5/)
 
 ---
 
-## Tech & Tools
-
 ## 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java,aws,git,vscode,linux,html,css&perrow=10" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,pandas,git,github,vscode,linux,html,css&perrow=10" />
   </a>
 </p>
+
+---
 
 ## My Projects
 
@@ -83,10 +81,41 @@ Features:
 
 ---
 
-## Socials
+## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riddhi-sibal5/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/rids5)
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20for-Collaboration%20%26%20Internship%20Opportunities-brightgreen?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/riddhi-sibal5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/riddhi-sibal5/">
+    <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:sibal.riddhi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:sibal.riddhi@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/rids5">
+    <img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rids5&bg_color=0d1117&color=a78bfa&line=764ba2&point=f093fb&area=true&hide_border=true" />
+</p>
 
 ---
 
