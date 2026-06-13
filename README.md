@@ -2,14 +2,14 @@
 
 ---
 
-# Hi, I'm Riddhi Sibal 👋
+# Hi, I'm Riddhi Sibal 
 **B.Tech CSE student building systems with real-world impact — from fraud detection to healthcare tools.**
 
 ---
 
 ## About Me
 
-I'm a Computer Science undergraduate based in Delhi, passionate about Data Structures, Algorithms, and writing clean, efficient code in C++ and Python. I enjoy taking real-world problems and breaking them down into elegant software solutions.
+I'm a Computer Science undergraduate , passionate about Data Structures, Algorithms, and writing clean, efficient code in C++ and Python. I enjoy taking real-world problems and breaking them down into elegant software solutions.
 
 I've built projects ranging from a rule-based fraud detection engine for telecom data to a daily health monitoring assistant — and I love diving deep into the "how" behind every system I build.
 
@@ -23,7 +23,7 @@ When I'm not coding, I'm sharpening my problem-solving skills and exploring new 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java,pandas,git,github,vscode,linux,html,css&perrow=10" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,aws,pandas,git,vscode,linux,html,css&perrow=10" />
   </a>
 </p>
 
