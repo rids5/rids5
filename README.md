@@ -23,7 +23,7 @@ When I'm not coding, I'm sharpening my problem-solving skills and exploring new 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java,aws,pandas,git,vscode,linux,html,css&perrow=10" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,aws,git,vscode,linux,html,css&perrow=10" />
   </a>
 </p>
 
