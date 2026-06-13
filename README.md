@@ -11,23 +11,6 @@
 
 ---
 
-## About Meclass Developer {
-    String name = "Abhinav Vats";
-    String role = "Java Full-Stack Developer";
-    String education = "BTech CSE | 3rd Year";
-
-    String[] coreSkills = {
-        "Java Backend Development",
-        "React Frontend",
-        "Spring Boot & Microservices",
-        "Data Structures & Algorithms",
-        "RESTful APIs & System Design"
-    };
-
-    String currentFocus = "Building production-ready full-stack applications";
-    String goal2025 = "Master Advanced DSA + Cloud Architecture";
-}
-
 I'm a Computer Science undergraduate based in Delhi, passionate about Data Structures, Algorithms, and writing clean, efficient code in C++ and Python. I enjoy taking real-world problems and breaking them down into elegant software solutions.
 
 I've built projects ranging from a rule-based fraud detection engine for telecom data to a daily health monitoring assistant — and I love diving deep into the "how" behind every system I build.
