@@ -100,10 +100,6 @@ Features:
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:sibal.riddhi@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="https://github.com/rids5">
     <img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
