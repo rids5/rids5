@@ -11,7 +11,7 @@
 
 ---
 
-I'm a Computer Science undergraduate based in Delhi, passionate about Data Structures, Algorithms, and writing clean, efficient code in C++ and Python. I enjoy taking real-world problems and breaking them down into elegant software solutions.
+I'm a Computer Science undergraduate, passionate about Data Structures, Algorithms, and writing clean, efficient code in C++ and Python. I enjoy taking real-world problems and breaking them down into elegant software solutions.
 
 I've built projects ranging from a rule-based fraud detection engine for telecom data to a daily health monitoring assistant — and I love diving deep into the "how" behind every system I build.
 
