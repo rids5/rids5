@@ -30,7 +30,6 @@ When I'm not coding, I'm sharpening my problem-solving skills on LeetCode and ex
     <img src="https://skillicons.dev/icons?i=cpp,python,java,git,vscode,linux,html,css&perrow=10" />
   </a>
 </p>
----
 
 ## My Projects
 
