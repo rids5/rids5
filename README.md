@@ -108,10 +108,17 @@ Features:
     <img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Open+for+Internships+%F0%9F%9A%80;Let%27s+build+something+great+together+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1;B.Tech+CSE+%7C+Delhi+%F0%9F%87%AE%F0%9F%87%B3" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
+
+---
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rids5&bg_color=0d1117&color=a78bfa&line=764ba2&point=f093fb&area=true&hide_border=true" />
